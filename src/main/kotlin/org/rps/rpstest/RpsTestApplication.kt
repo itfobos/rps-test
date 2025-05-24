@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class RpsTestApplication
 
 fun main(args: Array<String>) {
-	runApplication<RpsTestApplication>(*args)
+    runApplication<RpsTestApplication>(*args)
 }
