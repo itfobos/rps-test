@@ -8,8 +8,7 @@ import org.springframework.context.annotation.Import
 @SpringBootTest
 class RpsTestApplicationTests {
 
-	@Test
-	fun contextLoads() {
-	}
-
+    @Test
+    fun contextLoads() {
+    }
 }
